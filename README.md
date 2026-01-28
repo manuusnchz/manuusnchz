@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/manuel-penas-sanchez)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-penas-sanchez)
   [![Gmail Badge](https://img.shields.io/badge/-manuel.penas2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:manuel.penas2005@gmail.com)
   [![Phone Badge](https://img.shields.io/badge/-+34%20615%20642%20210-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](tel:+34615642210)
 
