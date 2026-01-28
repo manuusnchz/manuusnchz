@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099cc&height=220&section=header&text=Hola,%20soy%20Manuel%20Peñas&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Ingeniería%20Informática%20@%20UGR%20|%20Ciberseguridad%20&%20IA&descAlignY=60&descAlign=50" alt="Header Animado" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099cc&height=220&section=header&text=Hola,%20soy%20Manuel%20Peñas&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Ingeniería%20Informática%20@%20UGR&descAlignY=60&descAlign=50" alt="Header Animado" width="100%"/>
 </div>
 
 <div align="center">
