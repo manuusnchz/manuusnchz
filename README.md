@@ -18,8 +18,6 @@
 
 Me encuentro en constante formación, explorando los límites del código. Actualmente, mi brújula apunta hacia la **Ciberseguridad** 🔐 y la **Inteligencia Artificial** 🤖, áreas donde busco especializarme para resolver los desafíos tecnológicos del futuro.
 
-> *"La disciplina del deporte y la armonía de la música aplicadas al código."*
-
 ---
 
 ### 🛠️ Tech Stack & Herramientas
